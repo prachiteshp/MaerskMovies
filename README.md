@@ -11,11 +11,17 @@ npm install
 2. cd src/data
 3. json-server movies.json
 ```
+![Json Server](src/assets/json-server.png)
 ### Compiles and hot-reloads for development
 ```
 1. Open a new terminal/ check if you are in main path
 2. npm run serve
 ```
+### Screenshots for reference
+- Movie Search Page
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![MovieSearch](src/assets/MovieSearch.png)
+
+- Movie Details Page
+
+![MovieDetails](src/assets/MovieDetails.png)
